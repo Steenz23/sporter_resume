@@ -62,10 +62,3 @@ __Rotary Club Volunteer__, Preston, ID
 `2017-2018`
 __Service Missionary__, Dominican Republic
 
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
-
-
